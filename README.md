@@ -1,6 +1,6 @@
 # Café Sales Project
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/fd107303-0e8a-4d9d-9b36-4a5958be9be2/f5f24b3dd82873ed8980?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/c8d3e011-b83a-4263-bb05-f6af190969c5/f5f24b3dd82873ed8980?experience=power-bi
 
 ## Overview
 A café has requested our services in order to improve the operations and financials of their business. A dataset consisting of 10,000 rows of café sales was provided to us; however, there are many NULL values and standardization issues within this dataset. After cleaning the data, we must help stakeholders understand important metrics within this café such as sales performance, customer behavior, and operational efficiency as shown in the dashboard in PowerBI. The objective of this project is to extract insights from the dataset to suggest improvements under the economy of this café to reach the business owners' KPI goal of $7,000 in profit monthly. 
